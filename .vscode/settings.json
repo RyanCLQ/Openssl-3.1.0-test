@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sm4.h": "c",
+        "modes.h": "c",
+        "*.inc": "c"
+    }
+}
